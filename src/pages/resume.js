@@ -11,15 +11,15 @@ function Resume() {
       <h4 className="text-center header">Resume</h4>
       <p className="text-center">
         Check out some of my relevant experience.
-        <a
+        {/* <a
           href="../assets/emilyAguirreResume.pdf"
           download
           class="btn btn-primary resume-btn"
           type="button"
           style={{ background: '#0d50ff' }}
         >
-          Button
-        </a>
+          Download
+        </a> */}
       </p>
       {/* eduction */}
       <div className="card resume-card mt-10">
